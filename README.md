@@ -1,4 +1,4 @@
-**This script assumes you've filled one myworkdayjobs application out and you have some stored filled in information**
+**This script assumes you've filled one myworkdayjobs application out and you have some stored filled in information** *no it does not anymore uh haha*
 
 # Purpose
 The purpose of this project is to have a script that runs somewhat well on job applications that use myworkdayjobs as the application host, will potentially be able to fill in any personal information using info.txt as well as fill in many of the boxes using selenium 
@@ -15,4 +15,4 @@ The purpose of this project is to have a script that runs somewhat well on job a
 - then install jupyter to test your code in nice segments `pip3 install jupyter`
 
 # How to run
-- `./workdayjobs {url} {resume_file_path} {personal_info_txt_file_path}` this is still up in the air dont know if i wanna have it be personal text file or not
+- `./workdayjobs {url} {txt_file_with_info}`
